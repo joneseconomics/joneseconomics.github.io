@@ -1,0 +1,27 @@
+# Navigation links for the header
+# Order here determines order in the navigation bar
+
+main:
+  - title: "Home"
+    url: /
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Media"
+    url: /media/
+
+  - title: "Consulting"
+    url: /consulting/
+
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/
+
+  - title: "Speaking"
+    url: /speaking/
