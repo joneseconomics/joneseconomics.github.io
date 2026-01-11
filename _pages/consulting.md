@@ -11,29 +11,15 @@ author_profile: true
 
 I provide economic consulting services in the following areas:
 
-- **Economic Impact Analysis** - Measuring the economic contribution of organizations, projects, and policies
 - **Program Evaluation** - Assessing the effectiveness of programs and initiatives using rigorous methods
 - **Market Analysis** - Analyzing market conditions, trends, and competitive dynamics
 - **Labor Market Analysis** - Workforce studies, wage analysis, and employment forecasting
 - **Benefit-Cost Analysis** - Evaluating the economic efficiency of proposed projects and policies
 - **Tax Policy Analysis** - Analyzing the effects of tax incentives and fiscal policies
-- **Nonprofit Economics** - Strategic planning and financial analysis for nonprofit organizations
-- **Cryptocurrency & Blockchain** - Economic analysis of digital assets and blockchain applications
 
 ---
 
 ## Selected Consulting Projects (UC Economics Center)
-
-### Economic Impact Studies
-- Economic Impact of the Cincinnati Uptown Region (Uptown Consortium, 2015)
-- Economic Impact of METRO (Vehr Communications, 2015)
-- Economic Impact of Aronoff Center for the Arts (Cincinnati Arts Association, 2015)
-- Economic Impact of UC Health (UC Health, 2014)
-- Economic Impact of Cincinnati Children's Hospital (2013)
-- Economic Impact of the Cincinnati Zoo (2013)
-- Economic Impact of Cincinnati Museum Center (2014)
-- Economic Impact of UC College-Conservatory of Music (2014)
-- Economic Impact of Cargo Expansion (CVG Airport, 2013)
 
 ### Benefit-Cost Analysis
 - Benefit-Cost Analysis of Wasson Way Bike Trail (Wasson Way, 2015)
@@ -68,7 +54,6 @@ I provide economic consulting services in the following areas:
 
 - Ohio Senate and House of Representatives - Energy Efficiency Standards (2014)
 - Ohio Senate - Fiscal Note and Local Impact (2014)
-- Cincinnati Public Vehicle Office (2013)
 
 ---
 

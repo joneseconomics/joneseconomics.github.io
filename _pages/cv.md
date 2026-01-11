@@ -45,7 +45,7 @@ redirect_from:
 - Ohio Economic Experts Panel (2020 - Present)
 - UC Economics Department Kautz-Uible Faculty Committee (2023 - Present)
 - UC Lindner College of Business MBA Advisory Committee (2023 - Present)
-- Board Chair, Carbon Copy Assets Inc. (2023 - Present)
+- Board Chair, TapIn Solutions Inc. (2023 - Present)
 - Trustee and Chair of Audit Committee, Tactical Investment Series Trust (2024 - Present)
 - Ph.D. Dissertation Committee Member, Jack Luu (2024 - Present)
 - Board Member, Woove Inc. (2025 - Present)

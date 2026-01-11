@@ -1,34 +1,68 @@
 ---
 layout: archive
-title: "Entrepreneurship"
-permalink: /entrepreneurship/
+title: "Community"
+permalink: /community/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Startup Ecosystem Engagement
+## Community Engagement
 
-I actively engage with the startup ecosystem through board service, advisory roles, and academic-industry partnerships. My work bridges the gap between academic research and entrepreneurial practice, particularly in the areas of blockchain technology, digital assets, and fintech.
+I actively engage with the community through board service, advisory roles, and public policy contributions. My work bridges the gap between academic research and practical community impact.
 
 ---
 
-## Current Board Positions
+## Board Positions & Service
 
-### Carbon Copy Assets Inc.
-**Board Chair** (2023 - Present)
+### Current Positions
 
-Leading the board of a technology company focused on digital asset innovation.
+**Ohio Economic Roundtable**
+*Ohio Office of Budget and Management* (2020 - Present)
 
-### Woove Inc.
-**Board Member** (2025 - Present)
+Providing economic analysis and forecasting to support state budget decisions.
+
+**Ohio Economic Experts Panel**
+(2020 - Present)
+
+Contributing economic expertise to inform state policy discussions.
+
+**TapIn Solutions Inc.**
+*Board Chair* (2023 - Present)
+
+Leading the board of a technology company focused on digital innovation.
+
+**Tactical Investment Series Trust (TIST)**
+*Trustee and Chair of Audit Committee* (2024 - Present)
+
+Providing fiduciary oversight and ensuring compliance for investment fund operations.
+
+**Woove Inc.**
+*Board Member* (2025 - Present)
 
 Advising on growth strategy and market expansion.
 
-### Tactical Investment Series Trust (TIST)
-**Trustee and Chair of Audit Committee** (2024 - Present)
+### Past Positions
 
-Providing fiduciary oversight and ensuring compliance for investment fund operations.
+**Providence Bible Fellowship**
+*Board of Elders* (2021 - 2025)
+
+Providing spiritual leadership and organizational guidance.
+
+**Give Like a Mother (GLAM)**
+*Board Member and Treasurer* (2022 - 2024)
+
+Supporting maternal health initiatives through financial oversight and strategic planning.
+
+**Sweet Cheeks Diaper Bank**
+*Board Member and Secretary* (2019 - 2022)
+
+Addressing diaper need in Greater Cincinnati through nonprofit governance.
+
+**National Association for Business Economics**
+*CBE Steering Committee* (2020 - 2022)
+
+Contributing to the Certified Business Economist certification program.
 
 ---
 
@@ -53,21 +87,11 @@ Currently researching best practices for university-startup partnerships, with f
 
 ---
 
-## Entrepreneurship Awards & Recognition
+## Awards & Recognition
 
 - **Finalist**, UC Faculty Entrepreneurship Award (2024)
 - Featured in *UC News* and *Business Courier* for startup initiatives
 - Third Frontier grant recipient (UC-backed tech startup, 2025)
-
----
-
-## Speaking on Entrepreneurship
-
-I frequently speak on topics at the intersection of economics, technology, and entrepreneurship:
-
-- Searle Center Conference on Entrepreneurship and Innovation at Northwestern (2011)
-- International Conference on Social Entrepreneurship at Manipal University (2015)
-- Various industry conferences on cryptoeconomics and blockchain applications
 
 ---
 
@@ -90,4 +114,4 @@ Prior to my academic career, I held positions in the private sector:
 
 ## Contact
 
-Interested in discussing entrepreneurship, board opportunities, or startup partnerships? [Contact me](mailto:m.jones@uc.edu).
+Interested in discussing community engagement, board opportunities, or partnerships? [Contact me](mailto:m.jones@uc.edu).
