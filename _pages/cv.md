@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+## Download
+
+[Download full CV (PDF)](/files/cv.pdf)
+
+---
+
 ## Education
 
 - **PhD in Economics**, University of Notre Dame, 2012
@@ -28,36 +34,3 @@ redirect_from:
 | Assistant Professor, Educator of Economics | University of Cincinnati | 2014 - 2018 |
 | Director of Research, Economics Center | University of Cincinnati | 2012 - 2015 |
 | Research Assistant Professor | University of Cincinnati | 2012 - 2014 |
-
-## Teaching Awards
-
-- Finalist for UC Faculty Entrepreneurship Award (2024)
-- Recipient of the College of Business Excellence in Classroom Undergraduate Teaching Award (2022)
-- Recipient of Lindner College of Business Faculty Excellence Award (2022)
-- Recipient of the UC Office of Research Core Values Award (2021)
-- Recipient of the College of Business Breakthrough in Innovative Teaching Excellence Award (2020)
-- Recipient of the College of Business Excellence in Classroom Graduate Teaching Award (2017)
-- Dean's List of Teaching Excellence (2012 - 2017)
-
-## Professional Service
-
-- Ohio Economic Roundtable, Ohio Office of Budget and Management (2020 - Present)
-- Ohio Economic Experts Panel (2020 - Present)
-- UC Economics Department Kautz-Uible Faculty Committee (2023 - Present)
-- UC Lindner College of Business MBA Advisory Committee (2023 - Present)
-- Board Chair, TapIn Solutions Inc. (2023 - Present)
-- Trustee and Chair of Audit Committee, Tactical Investment Series Trust (2024 - Present)
-- Ph.D. Dissertation Committee Member, Jack Luu (2024 - Present)
-- Board Member, Woove Inc. (2025 - Present)
-
-## Professional Certifications
-
-- Project Management Professional (PMP)
-- Six Sigma Green Belt Certification
-- IBM Blockchain Practitioner
-- IBM Enterprise Design Thinking Practitioner
-- Harvard Case Method Teaching Seminar Part I and II
-
-## Download
-
-[Download full CV (PDF)](/files/cv.pdf)

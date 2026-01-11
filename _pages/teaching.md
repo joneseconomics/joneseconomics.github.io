@@ -13,16 +13,16 @@ author_profile: true
 - Graduate Microeconomic Theory
 - Foundations of Economics (MBA program)
 - Managerial Economics (MBA program)
-- Econometrics
 - Program Evaluation
-
-### Undergraduate Courses
 - Smart Contract Design
 - Nonprofit Economics
 - Economic Data Analysis
-- Blockchain and Cryptocurrencies
+
+### Undergraduate Courses
+- Business Applications of Blockchain
 - Introduction to Macroeconomics
 - Introduction to Microeconomics
+- Introduction to Econometrics
 
 ### Study Abroad Programs
 - Economic Development (Costa Rica)

@@ -90,9 +90,3 @@ author_profile: true
 - **"How the AI Instructional Program Exposure (AIIPE) Index Measures Job Readiness."** In Progress.
 
 - **"The Growth in Critical Thinking from College Graduate to Experienced Professional."** In Progress.
-
----
-
-## Journal Referee Service
-
-*Educational Evaluation and Policy Analysis*, *Economics of Education Review*, *Economic Development Quarterly*, *International Review of Economics Education*, *Journal of Labor Research*, *PLOS One*, *Public Administration Review*, *Journal of Economic Education*, *Finance Research Letters*, *Nonprofit Management and Leadership*, *Education Economics*, *Journal of Criminal Justice*, *Journal of Behavioral and Experimental Economics*, *Higher Education, Skills and Work-Based Learning*

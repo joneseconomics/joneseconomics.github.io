@@ -47,12 +47,12 @@ Advising on growth strategy and market expansion.
 **Providence Bible Fellowship**
 *Board of Elders* (2021 - 2025)
 
-Providing spiritual leadership and organizational guidance.
+Providing spiritual and organizational guidance.
 
 **Give Like a Mother (GLAM)**
 *Board Member and Treasurer* (2022 - 2024)
 
-Supporting maternal health initiatives through financial oversight and strategic planning.
+Supporting children in need through financial oversight and strategic planning.
 
 **Sweet Cheeks Diaper Bank**
 *Board Member and Secretary* (2019 - 2022)
@@ -64,34 +64,25 @@ Addressing diaper need in Greater Cincinnati through nonprofit governance.
 
 Contributing to the Certified Business Economist certification program.
 
----
+**National Association for Business Economics, Cincinnati Chapter**
+*President* (2017 - 2019)
 
-## Cryptoeconomics Lab
+Leading the local chapter of professional economists.
 
-As Director of the Kautz-Uible Cryptoeconomics Lab, I lead initiatives that connect students with industry partners and support blockchain innovation:
+**Kentucky Federal Statistical Research Data Center**
+*Member of Advisory Board* (2017 - 2018)
 
-- **Student Cryptocurrency Club Advisory** - Mentoring students interested in blockchain and digital assets
-- **Industry Partnerships** - Collaborating with companies like Ledger on digital asset security
-- **Applied Research** - Conducting research on crypto literacy, blockchain security, and decentralized finance
-- **Hackathon Participation** - Leading student teams in international blockchain hackathons (1st place winner, 2022)
+Advising on research data center operations and policy.
 
----
+**City of Cincinnati**
+*Economic Incentive Policy Steering Committee* (2015 - 2016)
 
-## Academic-Industry Initiatives
+Guiding development of economic incentive policies.
 
-### NIL Platform Development
-In 2024, I worked with UC faculty to unveil a startup platform to redefine the NIL (Name, Image, Likeness) landscape for student athletes.
+**Association for University Business and Economic Research (AUBER)**
+*Board Member* (2014 - 2015)
 
-### University-Startup Partnerships
-Currently researching best practices for university-startup partnerships, with findings under review at the *Journal of Financial Education*.
-
----
-
-## Awards & Recognition
-
-- **Finalist**, UC Faculty Entrepreneurship Award (2024)
-- Featured in *UC News* and *Business Courier* for startup initiatives
-- Third Frontier grant recipient (UC-backed tech startup, 2025)
+Supporting university-based economic research organizations.
 
 ---
 
@@ -102,13 +93,10 @@ Prior to my academic career, I held positions in the private sector:
 ### Cincinnati Bell (2006-2008)
 **Senior Business Development Manager**
 - Acquired video right of entry agreements to 30,000 units with projected annual revenue of $28MM
-- Achieved 30% video market share in the first three months of launch, exceeding target by 50%
-- Managed a staff of four employees and a marketing budget of $100,000
 
 ### Nielsen Company (2004-2006)
 **Senior Research Analyst**
 - Grew client accounts' revenues 33% from 1.67MM Euros to 2.23MM Euros
-- Developed applications and databases to support internal operations
 
 ---
 

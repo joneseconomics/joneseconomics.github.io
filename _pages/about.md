@@ -14,7 +14,7 @@ I take an active role in the community by providing economic insights for news m
 ## Research Interests
 
 My research focuses on:
-- **Cryptoeconomics & Blockchain** - Crypto literacy, digital assets, and blockchain security
+- **Cryptoeconomics** - Crypto literacy, digital assets, and blockchain security
 - **Labor Economics** - Teacher labor markets, performance pay, and automation
 - **Public Economics** - Tax policy, economic development, and nonprofit economics
 - **Financial Literacy** - Financial education, data literacy, and decision-making
@@ -33,13 +33,9 @@ My research focuses on:
 - **BS in Computer Science**, University of Kentucky, *summa cum laude*, 2003
 - **BA in Mathematics and Classics**, University of Kentucky, *summa cum laude*, 2003
 
-## Recent News
-
-I am regularly featured in media outlets discussing economic issues affecting consumers, businesses, and policy. Recent appearances include NPR Marketplace, ABC News, WLWT, WCPO, and the Cincinnati Business Courier.
-
 ## Contact
 
 Feel free to reach out to discuss research collaborations, consulting opportunities, or speaking engagements.
 
 - **Email:** [m.jones@uc.edu](mailto:m.jones@uc.edu)
-- **Phone:** 513.276.7093
+- **Phone:** 513.556.2491
