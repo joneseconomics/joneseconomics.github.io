@@ -63,6 +63,53 @@ I provide economic consulting services in the following areas:
 
 ---
 
+## Nonprofit Executive Compensation Benchmarking
+
+I provide **Executive Director Compensation Benchmark Reports** for nonprofit organizations.
+
+### Why This Matters
+
+Nonprofit board members face personal liability if they approve excessive executive compensation. Under IRS Section 4958, boards can establish a **rebuttable presumption of reasonableness** by documenting that they relied on appropriate comparability data when setting compensation. This report provides that data.
+
+### What You Get
+
+A comprehensive, board-ready PDF report that includes:
+
+- **Peer Comparison**: Your ED's compensation compared to 50 similar national organizations and 20 local peers
+- **Cost-of-Living Adjustment**: Regional Price Parity adjustments for fair geographic comparisons
+- **Statistical Analysis**: Regression modeling and percentile rankings
+- **Trend Analysis**: 3-year growth trends for your organization
+- **Visual Summaries**: Easy-to-understand charts and gauges
+- **Reasonableness Determination**: Clear assessment of whether compensation can be presumed reasonable
+
+### Learn More
+
+Watch an overview of the compensation benchmarking report:
+
+🎥 **[Watch Video Overview on YouTube](https://www.youtube.com/watch?v=kla6gTcXgoE)**
+
+<div style="margin: 20px 0;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kla6gTcXgoE" title="Nonprofit Executive Compensation Report Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Sample Report
+
+Download a sample report to see the full analysis:
+
+📄 **[Download Sample Report (PDF)](/files/ministry_of_magic_sample_report.pdf)**
+
+*Note: This sample uses fictional organization names for demonstration purposes. Your report will include real peer organization data.*
+
+### Request a Report
+
+To request an Executive Director Compensation Benchmark Report for your nonprofit organization, please email me directly at [m.jones@joneseconomics.com](mailto:m.jones@joneseconomics.com?subject=ED%20Compensation%20Report%20Request) with:
+
+- Your organization's EIN (Employer Identification Number)
+- Organization name
+- Any specific questions or concerns about compensation
+
+---
+
 ## Contact for Consulting
 
-Interested in working together? [Contact me](mailto:m.jones@uc.edu) to discuss your project needs.
+Interested in working together? [Contact me](mailto:m.jones@joneseconomics.com) to discuss your project needs.
