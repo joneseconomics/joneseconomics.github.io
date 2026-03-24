@@ -13,7 +13,7 @@ title                    : "Michael Jones, PhD"
 title_separator          : "-"
 name                     : &name "Michael Jones"
 description              : &description "Kautz-Uible Assistant Professor of Economics at the University of Cincinnati"
-url                      : https://joneseconomics.github.io
+url                      : https://www.joneseconomics.com
 baseurl                  : ""
 repository               : "joneseconomics/joneseconomics.github.io"
 
